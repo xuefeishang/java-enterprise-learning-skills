@@ -1,0 +1,15 @@
+{
+  "name": "java-enterprise-learning",
+  "version": "1.0.0",
+  "description": "Java JDK 17+ Enterprise Learning Plugin - Comprehensive learning guidance and knowledge graph for enterprise Java development",
+  "author": {
+    "name": "Claude Code User",
+    "email": ""
+  },
+  "capabilities": [
+    "skills",
+    "commands"
+  ],
+  "skillAutoDiscovery": true,
+  "commandAutoDiscovery": true
+}
